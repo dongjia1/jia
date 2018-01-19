@@ -1,0 +1,5 @@
+-write conversion functions:
+-doller to cents
+-feet to inches
+-gallons to liters
+-add
